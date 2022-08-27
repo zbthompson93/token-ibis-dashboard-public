@@ -1,0 +1,131 @@
+body {
+  background-color: #FFFFFF;
+  color: #414042;
+}
+
+.nav-bar {
+  z-index: 2;
+  background-color: #3b3b3b;
+  color: #FFFFFF;
+  width: 100%;
+  padding: 10px;
+}
+
+#ibis-logo {
+  width: 45px;
+  border: 2px solid #3b3b3b;
+  border-radius: 50%;
+}
+
+#loading-gif {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.nav-bar-title {
+  font-size: 30px;
+  text-align: center;
+  margin-top: -45px;
+}
+
+/* .graphs {
+  float: left;
+  width: 55%;
+  overflow-y: scroll;
+  margin-left: 0px !important;
+} */
+
+.col {
+  margin: 15px 0px;
+}
+
+.chart-title {
+  text-align: center;
+}
+
+.recharts-wrapper {
+  margin: auto;
+}
+
+.news {
+  width: 45%;
+  float: right;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.news-header h2 {
+  margin: 0 !important;
+  padding: 20px;
+  text-align: center;
+}
+
+.news-info {
+  margin-left: -20px
+}
+
+
+.news-title {
+  color: #3b3b3b;
+  font-weight: bold;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin-bottom: 5px !important;
+}
+
+.news-content {
+  color: #808080;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.user-img {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #84ab3f;
+  border-radius: 50%;
+}
+
+.like-count {
+  color: #84ab3f;
+}
+
+.news-img {
+  width: 100%;
+  height: 300px;
+}
+
+.MuiCardMedia-root {
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 8px 0px;
+}
+
+.news-container {
+  border-left: 1px solid #ccc;
+  /* box-shadow: 0px 0px 5px; */
+}
+
+.react-sanfona-item {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.react-sanfona-item-expanded {
+  padding: 0px 0px 20px 0px;
+}
+
+.react-sanfona-item-title {
+  padding: 20px;
+}
+
+.react-sanfona-item-title:hover {
+  background-color: #84AB3F;
+  padding: 20px;
+}
+
+.form-group {
+  margin: auto;
+  width: 60%;
+}

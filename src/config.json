@@ -1,0 +1,7 @@
+{
+  "ibis": {
+    "api": "https://api.app.tokenibis.org",
+    "username": "dashboard",
+    "password": "dashboard_password"
+  }
+}
