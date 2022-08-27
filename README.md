@@ -1,1 +1,1 @@
-This is a project that displays data from the Token Ibis App
+This is a project that displays data from the [Token Ibis App](https://tokenibis.org/)
